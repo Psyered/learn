@@ -1,2 +1,3 @@
 string = "hello world"
-print(string)
+int=123
+print(string, int)
